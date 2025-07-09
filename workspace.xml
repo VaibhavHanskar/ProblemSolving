@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f597233d-4b0a-4aba-807c-2227996c13d2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/Algorithms.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/src/Sorting/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/src/Sorting/CyclicSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/src/Sorting/DuplicateSorts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/src/Sorting/InsertionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/src/Sorting/SelectionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProblemSolving" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Problems.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/src/Arrays/BookAllocation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/src/Arrays/MissingNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/src/Arrays/RotateArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/src/Arrays/SecondLargestAndSmallestElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/src/Arrays/SecondLargestElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/src/Arrays/SplitArrInTwoWithMinSumDiff.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/src/BinarySearch/AggressiveCows.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/src/BinarySearch/BookAllocation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/src/BinarySearch/CapacityOfShipPackage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/src/BinarySearch/CountArrayRotations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/src/BinarySearch/FirstAndLastPosition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/src/BinarySearch/FloorAndCeil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/src/BinarySearch/KokoEatingBanana.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/src/BinarySearch/KthMissingPositiveNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/src/BinarySearch/LowerBound.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/src/BinarySearch/MinNODForBouquets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/src/BinarySearch/NthRoot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/src/BinarySearch/OccurenceOfTarget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/src/BinarySearch/SingleInSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/src/BinarySearch/SmallestDivisor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/src/BinarySearch/SplitArrayLargestSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/src/BinarySearch/SqRoot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/src/BinarySearch/UpperBound.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/src/Strings/IsomorphicStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/src/Strings/LargestOddNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/src/Strings/LongestCommonPrefix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/src/Strings/RemoveOuterMostParanthesis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/src/Strings/ReverseWordsInString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SOLID/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SOLID/BirdCategory/Crow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SOLID/BirdCategory/Penguin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SOLID/BirdCategory/Pigeon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SOLID/BirdCategory/Sparrow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SOLID/Danceable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SOLID/FlyBehaviour/CrowPigeonFlyBehaviour.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SOLID/FlyBehaviour/FlyBehaviour.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SOLID/Flyable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SOLID/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SOLID/ReadMe.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Problems/Arrays/MissingNumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Problems/Arrays/RotateArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Problems/Arrays/SecondLargestAndSmallestElement.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Problems/Arrays/SecondLargestElement.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Problems/BinarySearch/LowerBound.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Problems/BinarySearch/SingleInSortedArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Problems/BinarySearch/UpperBound.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Problems/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Sorting/BubbleSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Sorting/CyclicSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Sorting/InsertionSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Sorting/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Sorting/SelectionSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$PROJECT_DIR$/../../../../Program Files/Java/jdk-17/lib/src.zip!/java.base/java/lang/Integer.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2whqEtqM1FZDtTKtdpMqIF0celE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AggressiveCows.executor": "Run",
+    "Application.BookAllocation.executor": "Run",
+    "Application.BubbleSort.executor": "Run",
+    "Application.CapacityOfShipPackage.executor": "Run",
+    "Application.CountArrayRotations.executor": "Run",
+    "Application.CyclicSort.executor": "Run",
+    "Application.FirstAndLastPosition.executor": "Run",
+    "Application.FloorAndCeil.executor": "Run",
+    "Application.InsertionSort.executor": "Run",
+    "Application.IsomorphicStrings.executor": "Run",
+    "Application.KokoEatingBanana.executor": "Run",
+    "Application.KthMissingPositiveNumber.executor": "Run",
+    "Application.LargestOddNumber.executor": "Run",
+    "Application.LongestCommonPrefix.executor": "Debug",
+    "Application.LowerBound.executor": "Debug",
+    "Application.Main.executor": "Run",
+    "Application.MinNODForBouquets.executor": "Run",
+    "Application.MissingNumber.executor": "Debug",
+    "Application.NthRoot.executor": "Run",
+    "Application.OccurenceOfTarget.executor": "Debug",
+    "Application.RemoveOuterMostParanthesis.executor": "Debug",
+    "Application.ReverseWordsInString.executor": "Run",
+    "Application.RotateArray.executor": "Run",
+    "Application.SecondLargestAndSmallestElement.executor": "Run",
+    "Application.SecondLargestElement.executor": "Run",
+    "Application.SelectionSort.executor": "Run",
+    "Application.SingleInSortedArray.executor": "Debug",
+    "Application.SmallestDivisor.executor": "Run",
+    "Application.SplitArrayIntoTwo.executor": "Debug",
+    "Application.SplitArrayIntoTwoWithMinimizeSumDifference.executor": "Debug",
+    "Application.SplitArrayLargestSum.executor": "Run",
+    "Application.SqRoot.executor": "Debug",
+    "Application.SubarraysWithSumK.executor": "Run",
+    "Application.UpperBound.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "onboarding.tips.debug.path": "C:/Users/vaibhav_hanskar/IdeaProjects/DSA/Problems/src/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\vaibhav_hanskar\IdeaProjects\DSA\ProblemSolving" />
+      <recent name="C:\Users\vaibhav_hanskar\IdeaProjects\DSA" />
+      <recent name="C:\Users\vaibhav_hanskar\IdeaProjects\DSA\.idea" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Sorting" />
+      <recent name="ProblemSolving.SOLID.BirdCategory" />
+      <recent name="ProblemSolving.SOLID.LSP" />
+      <recent name="ProblemSolving.SOLID.SRP_OCP" />
+      <recent name="BinarySearch" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.KthMissingPositiveNumber">
+    <configuration name="CountArrayRotations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BinarySearch.CountArrayRotations" />
+      <module name="Problems" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KthMissingPositiveNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BinarySearch.KthMissingPositiveNumber" />
+      <module name="Problems" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LowerBound" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BinarySearch.LowerBound" />
+      <module name="Problems" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OccurenceOfTarget" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BinarySearch.OccurenceOfTarget" />
+      <module name="Problems" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RotateArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.RotateArray" />
+      <module name="Problems" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.KthMissingPositiveNumber" />
+        <item itemvalue="Application.RotateArray" />
+        <item itemvalue="Application.CountArrayRotations" />
+        <item itemvalue="Application.OccurenceOfTarget" />
+        <item itemvalue="Application.LowerBound" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f597233d-4b0a-4aba-807c-2227996c13d2" name="Changes" comment="" />
+      <created>1746504047663</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1746504047663</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Algorithms/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Problems/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Problems/src/Arrays/RotateArray.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Problems/src/Arrays/RotateArray.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Problems/src/Arrays/RotateArray.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Problems/src/BinarySearch/SingleInSortedArray.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Problems/src/BinarySearch/LowerBound.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Problems/src/BinarySearch/LowerBound.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Problems/src/BinarySearch/SqRoot.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Problems/src/BinarySearch/NthRoot.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Problems/src/BinarySearch/KokoEatingBanana.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Problems/src/BinarySearch/MinNODForBouquets.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Problems/src/BinarySearch/SmallestDivisor.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Problems/src/BinarySearch/CapacityOfShipPackage.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Problems/src/BinarySearch/AggressiveCows.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Problems/src/BinarySearch/AggressiveCows.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Problems/src/BinarySearch/AggressiveCows.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Problems/src/BinarySearch/AggressiveCows.java</url>
+          <line>58</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Problems/src/BinarySearch/AggressiveCows.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Problems/src/Arrays/SplitArrInTwoWithMinSumDiff.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Problems/src/Arrays/BookAllocation.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Problems/src/Arrays/BookAllocation.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Problems/src/Arrays/BookAllocation.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Problems/src/BinarySearch/BookAllocation.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Problems/src/BinarySearch/SplitArrayLargestSum.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Problems/src/BinarySearch/SplitArrayLargestSum.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Problems/src/BinarySearch/BookAllocation.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Problems/src/BinarySearch/BookAllocation.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Problems/src/Strings/RemoveOuterMostParanthesis.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Problems/src/Strings/ReverseWordsInString.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Problems/src/Strings/LargestOddNumber.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Problems/src/Strings/LongestCommonPrefix.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Problems/src/Strings/LongestCommonPrefix.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SOLID/BirdCategory/Penguin.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Problems/src/Strings/LargestOddNumber.java</url>
+          <line>24</line>
+          <properties class="Strings.LargestOddNumber">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
