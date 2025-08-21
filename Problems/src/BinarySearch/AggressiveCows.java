@@ -12,12 +12,12 @@ public class AggressiveCows {
             min = Math.min(min,nums[i]);
             max = Math.max(max,nums[i]);
         }
-        int low = min;
-        int high = max;
-        int ans = high-low;
+        int low = 1;
+        int high = max-min;
+        int ans = -1;
         while(low<=high){
             int mid  = low + (high-low)/2;
-            boolean isPossible = possible(nums,mid,k,min);
+            boolean isPossible = possible(nums,mid,k);
 
             if(isPossible){
                 ans = mid;
@@ -30,8 +30,8 @@ public class AggressiveCows {
         return ans;
     }
 
-    public boolean possible(int[] nums, int distance, int cows, int low){
-        int start = low;
+    public boolean possible(int[] nums, int distance, int cows){
+        int start = nums[0];
         int placed = 1;
         for(int i=1;i<nums.length;i++){
             if(nums[i] - start >= distance){
@@ -39,10 +39,7 @@ public class AggressiveCows {
                 placed++;
             }
         }
-        if(placed >= cows){
-            return true;
-        }
-        return false;
+        return placed >= cows;
     }
 
     public int cooows(int[] stalls, int k){
@@ -78,11 +75,11 @@ public class AggressiveCows {
         return ans;
     }
     public static void main(String[] args) {
-        int[] stalls = {47,40};
-        int cows = 2;
+        int[] stalls = {1, 2, 4, 8, 9};
+        int cows = 3;
         int n = 5;
         AggressiveCows obj = new AggressiveCows();
-        int ans = obj.cooows(stalls,cows);
+        int ans = obj.aggressiveCows(stalls,cows);
         System.out.println(ans);
     }
 }
