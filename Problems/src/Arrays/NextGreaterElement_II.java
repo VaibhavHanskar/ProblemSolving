@@ -25,3 +25,4 @@ public class NextGreaterElement_II {
         System.out.println(Arrays.toString(obj.nextGreaterElements(nums)));
     }
 }
+//This has an Optimisied Version
